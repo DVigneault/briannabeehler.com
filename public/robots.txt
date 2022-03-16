@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://briannabeehler.com/sitemap.xml
+Sitemap: https://briannabeehler-hjrmu.ondigitalocean.app/sitemap.xml
