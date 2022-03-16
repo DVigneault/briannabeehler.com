@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://briannabeehler-hjrmu.ondigitalocean.app/</loc>
+        <loc>http://127.0.0.1:1111/</loc>
     </url>
     <url>
-        <loc>https://briannabeehler-hjrmu.ondigitalocean.app/about/</loc>
+        <loc>http://127.0.0.1:1111/about/</loc>
     </url>
     <url>
-        <loc>https://briannabeehler-hjrmu.ondigitalocean.app/cv/</loc>
+        <loc>http://127.0.0.1:1111/cv/</loc>
     </url>
     <url>
-        <loc>https://briannabeehler-hjrmu.ondigitalocean.app/scholarship/</loc>
+        <loc>http://127.0.0.1:1111/scholarship/</loc>
     </url>
     <url>
-        <loc>https://briannabeehler-hjrmu.ondigitalocean.app/teaching/</loc>
+        <loc>http://127.0.0.1:1111/teaching/</loc>
     </url>
     <url>
-        <loc>https://briannabeehler-hjrmu.ondigitalocean.app/writing/</loc>
+        <loc>http://127.0.0.1:1111/writing/</loc>
     </url>
 </urlset>
