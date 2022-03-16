@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://briannabeehler.com/sitemap.xml
